@@ -1,6 +1,6 @@
 ## Hi there, I'm Vitor 👋
 
-- 🔭 I’m currently a PhD student at ROSE School in Earthquake Engineering programme at IUSS Pavia
+- 🔭 I’m currently a PhD student in the Earthquake Engineering programme at the ROSE School, IUSS Pavia
 - 📫 How to reach me: vitor.azevedomonteiro@iusspavia.it
 - 👀 I’m interested in the seismic performance, risk and loss assessment at regional level
 
