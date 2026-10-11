@@ -5,7 +5,7 @@
 - 👀 I’m interested in the seismic performance, risk and loss assessment at regional level
 
 ## 💬 Contact
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vítor-monteiro-structuralengineering])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADtor-monteiro-structuralengineering/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:vitor.azevedomonteiro@iusspavia.it)
 
 
